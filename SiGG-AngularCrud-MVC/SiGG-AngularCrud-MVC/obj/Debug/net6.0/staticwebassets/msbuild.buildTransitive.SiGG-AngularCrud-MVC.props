@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SiGG-AngularCrud-MVC.props" />
+</Project>
