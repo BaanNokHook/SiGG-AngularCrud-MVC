@@ -7,8 +7,4 @@
     <RootNamespace>SiGG_AngularCrud_MVC</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="NewFolder\" />
-  </ItemGroup>
-
 </Project>
